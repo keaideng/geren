@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-2f8fb67e","path":"/foo/loo/doh.html","title":"前端学习路线","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681262000000,"contributors":[{"name":"lainxin","email":"3598556808@qq.com","commits":1}]},"filePathRelative":"foo/loo/doh.md"}');export{o as data};
